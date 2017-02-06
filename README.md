@@ -1,0 +1,2 @@
+# ornek
+örnek projedir.
